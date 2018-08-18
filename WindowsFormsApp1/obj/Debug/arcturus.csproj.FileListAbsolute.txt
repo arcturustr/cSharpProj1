@@ -1,0 +1,16 @@
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\arcturus.csprojAssemblyReference.cache
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartUp.resources
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\arcturus.csproj.GenerateResource.cache
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\arcturus.csproj.CoreCompileInputs.cache
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenu.resources
+C:\Users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\suley\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\arcturus.csproj.CopyComplete
